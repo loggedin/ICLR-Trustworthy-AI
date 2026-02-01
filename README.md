@@ -13,7 +13,7 @@ conda env create -f environment.yml
 conda activate ICLR-Trustworthy-AI
 ```
 
-Download the Natural Questions dataset from [https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing](https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing). The contents should be unzipped and placed in the `scripts` directory.
+Download the Natural Questions dataset from [https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing](https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing). Extract the contents of the ZIP file into the repository root.
 
 ## License
 
