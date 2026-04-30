@@ -1,4 +1,4 @@
-name: ICLR-Trustworthy-AI
+name: RAG
 channels:
   - pytorch
   - nvidia
